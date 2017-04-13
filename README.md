@@ -2,7 +2,7 @@
 
 # Prodog 开发指南
 
-# This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书主要面向Prodog开发者，指导开发者进行开发。
 
 
 
