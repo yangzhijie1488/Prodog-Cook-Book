@@ -28,9 +28,11 @@
 
 3.如果需要手动上传存储数据，则先调用
 
-UserStorage.setItem\(key,field.isVisible\);
+> UserStorage.setItem\(key,field.isVisible\);
 
 然后再调用
 
-UserStorage.uploadStorageImmediate\(\);
+> UserStorage.uploadStorageImmediate\(\);
+
+
 
