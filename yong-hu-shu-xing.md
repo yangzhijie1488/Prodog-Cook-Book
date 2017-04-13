@@ -32,7 +32,5 @@ UserStorage.setItem\(key,field.isVisible\);
 
 然后再调用
 
-uploadStorageImmediate\(\);
-
-
+UserStorage.uploadStorageImmediate\(\);
 
